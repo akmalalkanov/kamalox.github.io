@@ -1,0 +1,106 @@
+body{
+	background:white;
+	background-image:url(images/l.jpg);
+	font-family:cursive;n
+	background:url(images/l.jpg) no-repeat center fixed;
+	background-size:cover;
+}
+#kama:hover{
+	border:2px solid #0004e1
+}
+#lvl{
+	color:pink;
+	background-color:green;
+	border:6px solid #2F3841;
+	border-radius:20px;
+	box-shadow:12px 12px 5px #000000;
+	width:90%
+	margin:10px;
+	padding:10px;
+	transform:rotate(0deg);
+	transition:3s all;
+}
+#lvl:hover{
+	transform:rotate(10deg);
+}
+
+#hr{
+	height:100px;
+	border-width:1px 0 0 0;
+	border-style:solid;
+	border-radius:100px;
+}
+#hr2{
+	border-width:0 0 1px 0;
+	border-radius:100px;
+	border-style:solid;
+	height:100px;
+	content:"";
+	display:block;
+	margin-top:-31px;
+}
+table{
+	width:60%;
+	
+}
+#bill{
+	color:black;
+}
+#bbb{
+	box-shadow:7px 7px 3px #000000;
+	border:1px solid #2F3841
+}
+h1{
+	color:white;
+	background:#;
+}
+#di{
+	box-shadow:15px 15px 5px #000000;
+	color:white;
+	border-radius: 20px;
+	transform:rotate(5deg);
+	transition:5s all;
+}
+#di:hover{
+	transform:rotate(360deg);
+}
+a{
+	color:red;
+	font-size:30px;
+	
+}
+
+p{
+	color:green;
+}	
+h6{
+	color:rgba(255,0,0);
+	
+}
+#chida{
+	color:##3ADD11;
+}	
+#lol{
+	color:lime;
+}
+#da{
+	color:black;
+}
+#brian{
+	color:red;
+	font-size:30px;
+}
+#net{
+	color:gray;
+	font-size:30px;
+}
+#bri{
+	color:lime;
+}
+#ch{
+	color:yellow;
+}
+#q{
+	color:lime;
+	
+}
